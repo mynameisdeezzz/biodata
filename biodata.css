@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #ffe4ad;
+}
+
+.container {
+    max-width: 600px;
+    background-color: #e6b657;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.profile{
+        text-align: center;
+}
+
+.profile-img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 50%;
+}
+
+table {
+    width: 100%;
+}
+
+table td {
+    padding: 10px;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
